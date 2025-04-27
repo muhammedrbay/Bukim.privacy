@@ -1,12 +1,12 @@
-rivacy Policy for Bukim
+bukim için gizlilik Politikası
 
-Bukim collects limited user data for functionality and advertising purposes. We use third-party services such as Google AdMob and Firebase Realtime Database. The app does not collect any sensitive personal information (such as email, phone number, address).
+Bukim, işlevsellik ve reklam amaçlı sınırlı kullanıcı verileri toplar. Google AdMob ve Firebase Gerçek Zamanlı Veritabanı gibi üçüncü taraf hizmetleri kullanıyoruz. Uygulama herhangi bir hassas kişisel bilgi toplamaz (e-posta, telefon numarası, adres gibi).
 
-Identifiers such as device ID are collected by AdMob for advertising purposes.
-Usage data such as app interaction and crash reports are collected by Firebase for analytics.
-No sensitive personal information is stored or shared.
-By using Bukim, you agree to this privacy policy.
+Cihaz kimliği gibi tanımlayıcılar AdMob tarafından reklam amacıyla toplanır.
+Uygulama etkileşimi ve kilitlenme raporları gibi kullanım verileri, analiz için Firebase tarafından toplanır.
+Hiçbir hassas kişisel bilgi saklanmaz veya paylaşılmaz.
+Bukim'i kullanarak bu gizlilik politikasını kabul etmiş olursunuz.
 
-If you have any questions, contact: muhammederbay44@gmail.com
+Herhangi bir sorunuz varsa, iletişime geçin: muhammederbay44@gmail.com
 
-Last updated: April 28, 2025
+Son güncelleme: 28 Nisan 2025
